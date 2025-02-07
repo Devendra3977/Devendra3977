@@ -1,30 +1,33 @@
-👋 Hi, I’m Devendra Pratap Singh
-💻 MERN Stack Developer | Web Developer
+# 👋 Hi, I’m **Devendra Pratap Singh**  
 
-👀 I’m interested in...
-Building scalable and high-performance web applications
-Exploring new web technologies
-Creating intuitive and responsive user interfaces
-🌱 I’m currently learning...
-Advanced React.js concepts
-Performance optimization in web development
-Backend scalability with Node.js and MongoDB
-💞️ I’m looking to collaborate on...
-Open-source MERN stack projects
-Innovative web development ideas
-Frontend and UI/UX enhancements
-📫 How to reach me...
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
-Email: Your Email
-😄 Pronouns:
-He/Him
+💻 **MERN Stack Developer | Web Developer**  
 
-⚡ Fun fact:
-I can spend hours optimizing a single component for the best user experience! 🚀
+## 👀 I’m interested in...  
+- Building scalable and high-performance web applications  
+- Exploring new web technologies  
+- Creating intuitive and responsive user interfaces  
 
+## 🌱 I’m currently learning...  
+- Advanced React.js concepts
+- Advance MongoDB concepts 
+- Performance optimization in web development  
+- Backend scalability with Node.js and MongoDB  
 
-<!---
-Devendra3977/Devendra3977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💞️ I’m looking to collaborate on...  
+- Open-source MERN stack projects  
+- Innovative web development ideas  
+- Frontend and UI/UX enhancements  
+
+## 📫 How to reach me...  
+- **LinkedIn:** [https://www.linkedin.com/in/devendra-pratap-singh-a1ba53329/](#)  
+- **GitHub:** [https://github.com/Devendra3977](#)  
+- **Email:** [devendrapratap019@gmail.com](#)  
+
+## 😄 Pronouns:  
+He/Him  
+
+## ⚡ Fun facts about me:  
+- I can spend hours tweaking a UI until it's pixel-perfect! 🎨  
+- I love writing clean and efficient code—messy code gives me nightmares! 😆
+- I talk to my code like it's going to respond back someday! 🤖💬  
+ 
